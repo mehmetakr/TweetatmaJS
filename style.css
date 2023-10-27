@@ -23,8 +23,9 @@ body {
 }
 
 .tweetarea {
-  min-height: 130px;
-  max-height: 200px;
+  min-height: 330px;
+  max-height: 300px;
+  min-width: 330px;
   overflow-y: auto;
   position: relative;
 }
