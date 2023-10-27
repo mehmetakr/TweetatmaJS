@@ -15,14 +15,14 @@
  <h2> Yapılan İşlemler <h2>
 
 <p>
-* Kullanıcı inputa  tıkladıgında rengın değişmesi    
-* Klavyeden giriş oldugunda placeholderın kaybolması
-* Klavyeden giriş yapılmadıgında placeholderın tekrar gelmesi
-* Eğer klavye girişi varsa tweet butonu aktif olacak 
-* Eğer kullanıcı limiti geçmişse tweet butonu pasif olucak
-* Ve eğer kullanıcı limiti geçmişse girilen fazla değerlerin arkaplanı kırmızı olucak 
+* Kullanıcı inputa  tıkladıgında rengın değişmesi    <br>
+* Klavyeden giriş oldugunda placeholderın kaybolması <br>
+* Klavyeden giriş yapılmadıgında placeholderın tekrar gelmesi<br>
+* Eğer klavye girişi varsa tweet butonu aktif olacak <br>
+* Eğer kullanıcı limiti geçmişse tweet butonu pasif olucak<br>
+* Ve eğer kullanıcı limiti geçmişse girilen fazla değerlerin arkaplanı kırmızı olucak<br> 
 
-Bu işlemleri javascript ile gerçekleştirdik
+Bu işlemleri javascript ile gerçekleştirdik<br>
 </p>
 
 <h2>Kullanilan Teknolojiler</h2>
